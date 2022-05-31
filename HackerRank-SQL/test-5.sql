@@ -1,5 +1,5 @@
 /*
-Japanese Cities Attributes
+Japanese Cities' Attributes
 
 +-------------+--------------+
 | Field       | Type         |
