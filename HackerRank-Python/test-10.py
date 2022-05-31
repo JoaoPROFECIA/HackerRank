@@ -18,4 +18,3 @@ if __name__ == '__main__':
     for p in l:
         if sg in p:
             print(p[1])
-        
