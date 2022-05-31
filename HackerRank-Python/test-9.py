@@ -7,3 +7,4 @@ if __name__ == '__main__':
     arr.sort()
     arr.reverse()
     print(arr[1])
+    
