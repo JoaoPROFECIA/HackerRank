@@ -1,2 +1,2 @@
 # HackerRank
- Repositório com resolução das questões propostas no site HackerRank.com 
+ Repositório com resolução dos testes propostos no site HackerRank.com 
