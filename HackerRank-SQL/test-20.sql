@@ -44,5 +44,5 @@ Angela has been an employee for 1 month and earns $3443 per month. Michael has b
 */
 SELECT NAME 
 FROM EMPLOYEE 
-WHERE SALARY > 2000  AND MONTHS < 10 
+WHERE SALARY > 2000 AND MONTHS < 10 
 ORDER BY EMPLOYEE_ID; 
